@@ -1,0 +1,7 @@
+{
+  "name": "MerchRemaster Pro - Clone thiết kế từ ảnh Mockup, Upscale lên 4K, Tách nền thông minh, Vẽ lại Vector và hỗ trợ POD",
+  "description": "Một công cụ mạnh mẽ để thiết kế lại và nâng cấp đồ họa áo thun từ bản mô phỏng thành các thiết kế độ phân giải cao, sẵn sàng in ấn 4500x5400 bằng Gemini 3 Pro Image.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
