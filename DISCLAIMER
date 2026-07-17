@@ -1,0 +1,15 @@
+## ⚠️ Tuyên bố miễn trừ trách nhiệm (Disclaimer)
+
+Kho lưu trữ này ("Merch Remaster Module") được cung cấp **chỉ dành cho mục đích giáo dục, nghiên cứu và sử dụng cá nhân**. Khi tải về và sử dụng công cụ này, bạn đồng ý với các điều khoản sau:
+
+1. **Phi thương mại & Cấm mua bán:** Bạn được phép sử dụng công cụ này cho mục đích cá nhân và được quyền chia sẻ mã nguồn (chia sẻ miễn phí) cho người khác. **Nghiêm cấm mọi hành vi sao chép, đóng gói lại để mua bán, cho thuê, hoặc sử dụng công cụ này trực tiếp để thu lợi nhuận thương mại dưới bất kỳ hình thức nào.**
+
+2. **Bản quyền & Sở hữu trí tuệ:** Công cụ này tự động hoá việc xử lý ảnh (xoá nền) và tạo ảnh mới. Bạn phải hoàn toàn chịu trách nhiệm đảm bảo rằng mình có đầy đủ quyền, giấy phép hoặc sự cho phép đối với bất kỳ hình ảnh đầu vào nào (input) được sử dụng. Tác giả không khuyến khích và không chịu trách nhiệm pháp lý cho bất kỳ hành vi vi phạm bản quyền hoặc sở hữu trí tuệ nào phát sinh từ việc sử dụng công cụ (ví dụ: sao chép hoặc chỉnh sửa trái phép các mẫu thiết kế có bản quyền).
+
+3. **Dịch vụ AI của Bên thứ ba:** Module này tích hợp các mô hình Trí tuệ nhân tạo của bên thứ ba (Google Gemini và OpenAI ChatGPT) để tạo ảnh. Người dùng tự chịu trách nhiệm sử dụng API Key cá nhân của riêng mình. Bạn bắt buộc phải tuân thủ nghiêm ngặt **Điều khoản Dịch vụ (Terms of Service)** và **Chính sách Sử dụng (Acceptable Use Policies)** của [Google (Gemini)](https://ai.google.dev/terms) và [OpenAI](https://openai.com/policies/terms-of-use).
+
+4. **Nội dung được tạo ra (Generated Content):** Hình ảnh do AI tạo ra đôi khi có thể không thể đoán trước hoặc không phù hợp. Tác giả không kiểm soát được kết quả đầu ra của các mô hình AI này và không chịu trách nhiệm đối với nội dung được tạo ra.
+
+5. **Không bảo hành:** Phần mềm này được cung cấp "nguyên trạng" (as is), không đi kèm bất kỳ hình thức bảo hành nào. Tác giả sẽ không chịu trách nhiệm cho bất kỳ thiệt hại trực tiếp, gián tiếp, hoặc hệ quả nào (bao gồm tổn thất tài chính, khoá tài khoản API) phát sinh từ việc sử dụng phần mềm.
+
+**Vui lòng sử dụng công cụ một cách có trách nhiệm, tôn trọng bản quyền và tuân thủ pháp luật.**
